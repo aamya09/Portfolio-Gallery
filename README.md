@@ -1,4 +1,9 @@
 <h1>Portfolio-Gallery</h1>
 <p>Its a Gallery Website which contains multiple images stacked together in a presentable manner with various CSS properties</p>
-
-
+<h2>HTML</h2>
+<p>I made a number of div> components in the HTML section to represent each project or photograph in the gallery. I used the img> element to embed the images into these divs. Additionally, I used proper HTML elements like h2>, p>, and a> to incorporate pertinent information such project titles, descriptions, and links. I was able to lay the groundwork for the gallery's content thanks to this arrangement.</p>
+<h2>CSS</h2>
+<p>In order to get the intended visual display, the CSS was crucial. To manage the location and appearance of the stacked photos, I used CSS rules. I changed the space between the photos and made sure they were properly aligned by using properties like position, margin, and padding. I arranged the photographs in rows or columns using display: flex or grid attributes to produce an aesthetically pleasing layout.
+The user experience was improved through the usage of CSS transitions and animations. I used:hover pseudo-classes to add minor effects like a colour shift or a zoom-in motion when a user hovers over an image. The gallery became more lively and engaging for visitors as a result of this engagement.
+Additionally, I used CSS to style the captions and explanations with the proper font weights, hues, and alignments. As a result, the language enhanced the photographs without taking centre stage, adding to their overall visual appeal.</p>
+<h3>I was able to make a portfolio gallery with several photographs stacked together in an orderly and aesthetically acceptable way by successfully fusing HTML and CSS. The CSS styling improved the appearance and interaction features while the HTML structure provided the content framework, creating a visually appealing and user-friendly portfolio showcase.</h3>
